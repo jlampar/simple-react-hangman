@@ -1,7 +1,10 @@
 # simple-react-hangman
-simple hangman app created with react and webpack
+Simple hangman app created with react and webpack.
+
+## Install and launch
 
 For installation and launching in the repostiry folder type:
+
 ```
 npm install && npm start
 ```
